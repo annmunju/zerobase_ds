@@ -1,6 +1,3 @@
-[제로베이스 네카라쿠배 데이터 사이언스 온라인 과정 실습]
-
-- data는 데이터 보관함입니다.
-- EDA, algorithm은 각 수업의 소스코드 입니다.
-= 파이썬 프로그래밍 실습을 위한 폴더입니다.
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf86053d7b1d255c8408cd67a69446feff7f9ff19b470d353950b03517dfab55
+size 249
